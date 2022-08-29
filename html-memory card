@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Memory Game</title>
+    <title> Kamara's Hip Hop Memory Game</title>
     <meta name="description" content="">
     <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Coda">
@@ -11,9 +11,8 @@
 
     <div class="container">
         <header>
-            <h1> Memory Game </h1>
+            <h1> Kamara's Hip Hop Memory Game</h1>
         </header>
-
         <section class="score-panel">
         	<ul class="stars">
         		<li><i class="fa fa-star"></i></li>
@@ -34,52 +33,52 @@
 
         <ul class="deck">
             <li class="card">
-                <i class="fa fa-diamond"></i>
+                <img src="https://media.allure.com/photos/626ff8963e80fda29f6554a3/3:4/w_1500,h_2000,c_limit/Megan%20thee%20stallion%20blue%20highlights.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-paper-plane-o"></i>
+                <img src="https://i.guim.co.uk/img/media/d62f09f61d338ec02cf3a22edf3ddd8e50713ec2/0_100_3000_1800/master/3000.jpg?width=1020&quality=85&fit=max&s=363791759a341d32a3350084bec615fa" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-anchor"></i>
+                <img src="https://media1.popsugar-assets.com/files/thumbor/q4faAuXpw3Akke5Z9JLfNmFp7fU/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2022/02/10/928/n/1922283/e1ea5c7c620580b609f212.87014570_/i/off-thee-leash-with-megan-thee-stallion-show.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-bolt"></i>
+                <img src="https://media.allure.com/photos/626ff8963e80fda29f6554a3/3:4/w_1500,h_2000,c_limit/Megan%20thee%20stallion%20blue%20highlights.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-cube"></i>
+                <img src="https://i.guim.co.uk/img/media/d62f09f61d338ec02cf3a22edf3ddd8e50713ec2/0_100_3000_1800/master/3000.jpg?width=1020&quality=85&fit=max&s=363791759a341d32a3350084bec615fa" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-anchor"></i>
+                <img src="https://media1.popsugar-assets.com/files/thumbor/q4faAuXpw3Akke5Z9JLfNmFp7fU/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2022/02/10/928/n/1922283/e1ea5c7c620580b609f212.87014570_/i/off-thee-leash-with-megan-thee-stallion-show.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-leaf"></i>
+                <img src="https://www.etonline.com/sites/default/files/styles/970xh/public/images/2022-04/GettyImages-1389375820.jpg?itok=uKapxU5-" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-bicycle"></i>
+                <img src="https://www.etonline.com/sites/default/files/styles/970xh/public/images/2022-04/GettyImages-1389375820.jpg?itok=uKapxU5-" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-diamond"></i>
+                <img src="https://www.billboard.com/wp-content/uploads/2022/03/Cardi-B-dec-2021-billboard-1548.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-bomb"></i>
+                <img src="https://www.themoviedb.org/t/p/w235_and_h235_face/pd75jVczctC2EsHghfeSyLpChqj.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-leaf"></i>
+                <img src="https://assets.teenvogue.com/photos/602ff9f87483d0c04274d666/master/pass/Saweetie%20in%20Essenchills.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-bomb"></i>
+                <img src="https://www.themoviedb.org/t/p/w235_and_h235_face/pd75jVczctC2EsHghfeSyLpChqj.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-bolt"></i>
+                <img src="https://assets.teenvogue.com/photos/602ff9f87483d0c04274d666/master/pass/Saweetie%20in%20Essenchills.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-bicycle"></i>
+                <img src="https://pyxis.nymag.com/v1/imgs/91b/c7b/63fe6e6778bcfd1de6a3eab7a7f629aa31-220807-THE-CUT-MEGAN-THEE-STALLION-03-08.rvertical.w570.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-paper-plane-o"></i>
+                <img src="https://www.billboard.com/wp-content/uploads/2022/03/Cardi-B-dec-2021-billboard-1548.jpg" class = "megphotos"></img>
             </li>
             <li class="card">
-                <i class="fa fa-cube"></i>
+                <img src="https://pyxis.nymag.com/v1/imgs/91b/c7b/63fe6e6778bcfd1de6a3eab7a7f629aa31-220807-THE-CUT-MEGAN-THEE-STALLION-03-08.rvertical.w570.jpg" class = "megphotos"></img>
             </li>
         </ul>
     </div>

@@ -1,10 +1,5 @@
 html {
-    box-sizing: border-box;
-}
-
-*::before,
-*::after {
-    box-sizing: inherit;
+    box-sizing: content-box;
 }
 
 html,
@@ -30,8 +25,8 @@ body {
 
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: 300;
-    margin-bottom: 20px;
+    font-weight: 173px;
+    margin-bottom: 15px;
     font-weight: bold;
 }
 
@@ -42,10 +37,9 @@ h1 {
 .deck {
     width: 660px;
     min-height: 680px;
-    background: linear-gradient(160deg, #ddbf4f 0%, #d33a32 100%);
+    background: black;
     padding: 32px;
     border-radius: 10px;
-    box-shadow: 12px 15px 20px 0 rgba(7, 117, 241, 0.65);
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -55,9 +49,14 @@ h1 {
     pointer-events: none;
 }
 
+.megphotos{
+    height: 90px;
+    width: 75px;
+}
+
 .deck .card {
     height: 125px;
-    width: 125px;
+    width: 250px;
     background: white;
     font-size: 0;
     color: yellow;
